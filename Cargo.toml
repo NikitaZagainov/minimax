@@ -1,0 +1,14 @@
+[package]
+name = "tic-tac-toe"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cache-macro = "=0.4.1"
+lazy_static = "1.2.0"
+lru-cache = "0.1.1"
+new = "0.0.0"
+proc-macro2 = "0.4"
+quote = "0.6"
+syn = "0.15"
+
